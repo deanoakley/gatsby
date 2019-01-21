@@ -3980,3 +3980,16 @@
     - Web Development
   built_by: Cole Walker
   built_by_url: "https://www.walkermakes.com"
+  - title: Yellowcake Starter Project
+  main_url: "https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/"
+  url: "https://www.walkermakes.com"
+  source_url: "https://github.com/thriveweb/yellowcake/"
+  description: Yellowcake is a starter project created to help you create lightening fast websites with Gatsby and Netlify CMS.
+  featured: false
+  categories:
+    - Web Development
+    - Theme
+    - Blog
+    - Open Source
+  built_by: Dean Oakley
+  built_by_url: "https://thriveweb.com.au"
